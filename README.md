@@ -1,16 +1,15 @@
 <div align="center">
 
-# BHOOMI BANKAPUR
+<img src="./header-banner.png" width="100%" alt="Heyy!!! I am Bhoomi — AI-ML engineer | Full stack developer"/>
 
-*building systems that reason, not just respond*
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B565D8&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav;shipping+NeetiAi+%C2%B7+Memora+%C2%B7+Project+Dhruva;CS+(AI)+%40+KLE+Technological+University;next+stop%3A+a+funded+Master's+%2B+algo+trading" alt="typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F3E6D5,50:B3202D,100:7A1420&height=3&width=100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B3202D&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav;shipping+NeetiAi+%C2%B7+Memora+%C2%B7+Project+Dhruva;CS+(AI)+%40+KLE+Technological+University;next+stop%3A+a+funded+Master's+%2B+algo+trading" alt="typing"/>
-
-<img src="https://komarev.com/ghpvc/?username=Bhoomified&label=Profile+Views&color=B3202D&style=flat-square&labelColor=140607"/>
-<img src="https://img.shields.io/github/followers/Bhoomified?label=Followers&style=flat-square&color=B3202D&labelColor=140607"/>
-<img src="https://img.shields.io/badge/Currently-Building%20NeetiAi-B3202D?style=flat-square&labelColor=140607"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhoomified&label=Profile+Views&color=B565D8&style=round-square&labelColor=07060D"/>
+<img src="https://img.shields.io/github/followers/Bhoomified?label=Followers&style=round-square&color=B565D8&labelColor=07060D"/>
+<img src="https://img.shields.io/badge/Currently-Building%20NeetiAi-B565D8?style=round-square&labelColor=07060D"/>
+</div>
 
 </div>
 
@@ -18,13 +17,53 @@
 
 ## Ⅰ. About
 
-I'm a Computer Science (AI) student at **KLE Technological University**, Hubballi — though most of what I actually know, I picked up building things past midnight, not in a lecture hall.
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-I like systems that reason instead of just respond: knowledge graphs, RAG pipelines, sensor fusion for navigation without GPS. Right now that's three things running in parallel — a personal-finance AI for Indian students, a digital-identity graph engine, and a phone-only dead-reckoning nav system for ISRO's Smart India Hackathon.
+<h3>CS (AI) student who likes to build things that make me learn.</h3>
 
-The long game: a fully-funded Master's abroad, and eventually building my own algorithmic trading systems from scratch. Off the keyboard — sketching, reading my own Vedic astrology chart way too closely, and rewriting the same README four times until it finally feels right.
+<p>
+I’m a CS (AI) student at KLE Tech, constantly somewhere between 
+<strong>“I wonder if this is possible”</strong> and 
+<strong>“okay, now I have to make it work.”</strong>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A1420,50:B3202D,100:F3E6D5&height=2&width=100%"/>
+<p>
+My interests live around <strong>AI/ML, RAG, knowledge graphs, 
+intelligent systems, and navigation</strong>. I enjoy projects where 
+there’s more to solve than just writing the code — understanding the 
+problem, figuring out the architecture, experimenting with ideas, 
+and debugging things that absolutely did not want to be debugged.
+</p>
+
+<p>
+I learn by building, and most of my learning happens somewhere between 
+a terminal, a half-finished idea, and far too many tabs open at 1 AM.
+</p>
+
+<p>
+When I’m not building something, you’ll probably find me sketching, 
+exploring Vedic astrology, or going down another completely unexpected 
+rabbit hole.
+</p>
+
+<p>
+<strong>Building things. Breaking things. Learning things. 
+Repeat.</strong>
+</p>
+
+</td>
+
+<td width="40%" align="right-" valign="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8D3,50:B565D8,100:07060D&height=2&width=100%"/>
 
 ## Ⅱ. Featured Builds
 
@@ -57,7 +96,7 @@ The long game: a fully-funded Master's abroad, and eventually building my own al
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F3E6D5,50:B3202D,100:7A1420&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07060D,50:B565D8,100:5FA8D3&height=2&width=100%"/>
 
 ## Ⅲ. Stack
 
@@ -68,16 +107,11 @@ The long game: a fully-funded Master's abroad, and eventually building my own al
 
 **AI / ML / LLM**
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-140607?style=for-the-badge&logo=pytorch&logoColor=F3E6D5&labelColor=140607&color=7A1420"/>
-<img src="https://img.shields.io/badge/TensorFlow-140607?style=for-the-badge&logo=tensorflow&logoColor=F3E6D5&labelColor=140607&color=7A1420"/>
-<img src="https://img.shields.io/badge/scikit--learn-140607?style=for-the-badge&logo=scikitlearn&logoColor=F3E6D5&labelColor=140607&color=7A1420"/>
-<img src="https://img.shields.io/badge/XGBoost-140607?style=for-the-badge&labelColor=140607&color=7A1420"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,xgboost&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/LangChain-140607?style=for-the-badge&logoColor=F3E6D5&labelColor=140607&color=B3202D"/>
-<img src="https://img.shields.io/badge/RAG-140607?style=for-the-badge&labelColor=140607&color=B3202D"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-140607?style=for-the-badge&logo=huggingface&logoColor=F3E6D5&labelColor=140607&color=B3202D"/>
-<img src="https://img.shields.io/badge/Groq-140607?style=for-the-badge&labelColor=140607&color=B3202D"/>
-<img src="https://img.shields.io/badge/ChromaDB-140607?style=for-the-badge&labelColor=140607&color=B3202D"/>
+<img src="https://skillicons.dev/icons?i=langchain,huggingface,groq&theme=dark"/>
+<img src="https://img.shields.io/badge/RAG-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
+<img src="https://img.shields.io/badge/ChromaDB-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
 </p>
 
 **Backend**
@@ -95,24 +129,32 @@ The long game: a fully-funded Master's abroad, and eventually building my own al
 <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,vscode&theme=dark"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A1420,50:B3202D,100:F3E6D5&height=2&width=100%"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="140"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8D3,50:B565D8,100:07060D&height=2&width=100%"/>
 
 ## Ⅳ. GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhoomified&show_icons=true&hide_border=true&bg_color=140607&title_color=B3202D&icon_color=B3202D&text_color=F3E6D5&ring_color=7A1420"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Bhoomified&hide_border=true&background=140607&stroke=7A1420&ring=B3202D&fire=B3202D&currStreakLabel=B3202D&sideLabels=F3E6D5&currStreakNum=F3E6D5&sideNums=F3E6D5&dates=D8C3AE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhoomified&show_icons=true&hide_border=true&bg_color=07060D&title_color=B565D8&icon_color=B565D8&text_color=F1EAFB&ring_color=5FA8D3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomified&layout=compact&hide_border=true&bg_color=07060D&title_color=B565D8&text_color=F1EAFB"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomified&bg_color=140607&color=B3202D&line=7A1420&point=F3E6D5&hide_border=true&area=true" width="95%"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Bhoomified&hide_border=true&background=07060D&stroke=5FA8D3&ring=B565D8&fire=B565D8&currStreakLabel=B565D8&sideLabels=F1EAFB&currStreakNum=F1EAFB&sideNums=F1EAFB&dates=D9B8F5"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Bhoomified/Bhoomified/output/github-contribution-grid-snake-dark.svg" width="85%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomified&bg_color=07060D&color=B565D8&line=5FA8D3&point=F1EAFB&hide_border=true&area=true" width="95%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F3E6D5,50:B3202D,100:7A1420&height=3&width=100%"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="200"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07060D,50:B565D8,100:5FA8D3&height=3&width=100%"/>
 
 <div align="center">
 
