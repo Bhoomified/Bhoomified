@@ -2,7 +2,7 @@
 
 <img src="./header-banner.png" width="100%" alt="Heyy!!! I am Bhoomi — AI-ML engineer | Full stack developer"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B565D8&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav;AI%2FML+%2B+Full+Stack+Development;Building+intelligent+systems;Learning+by+building"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B565D8&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav"/>
 
 
 <div align="center">
@@ -72,11 +72,11 @@ Repeat.</strong>
 > `Next.js` `FastAPI` `XGBoost` `DistilBERT` `Supabase` `SciPy`
 
 > **Memora** — AI-powered digital identity & knowledge graph engine · built for the Memoryverse Hackathon
-> Causal graph (`LED_TO` → `BUILT_ON` → `APPLIED_IN`) linking growth, skills & experience · OCR ingestion · RAG chat with citations · migrated from local Ollama to Groq's hosted API for production
+> Causal graph (`LED_TO` → `BUILT_ON` → `APPLIED_IN`) linking growth, skills & experience · OCR ingestion · RAG chat with citations · migrated from local Ollama to Groq's hosted API for product deployment
 > `FastAPI` `ChromaDB` `NetworkX` `Groq` `D3.js` `Docker` → **[Live demo ↗](https://memora-production-2406.up.railway.app)**
 
 > **Project Dhruva** — phone-only, GPS-denied dead-reckoning navigation · Smart India Hackathon, ISRO problem statement SIH26168
-> Native Android app (recorder + live navigate screen) built from scratch, paired with a live web dashboard tracking drift and map-matching — built end-to-end with a teammate, from empty project to deployment
+> Native Android app (recorder + live navigate screen) built from scratch, paired with a live web dashboard tracking drift and map-matching — built end-to-end with a teammate, from empty project to deployed on multiple devices
 > `Kotlin` `Android Studio` `Sensor Fusion` `OSMDroid`
 
 > **Breath Mirror** — a creative interactive web experience using mic input and hand-gesture tracking
@@ -143,7 +143,7 @@ Repeat.</strong>
 
 <p align="center">
   <a href="https://github.com/Bhoomified">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhoomified&show_icons=true&hide_border=true&bg_color=07060D&title_color=B565D8&icon_color=B565D8&text_color=F1EAFB&ring_color=B565D8&count_private=true" alt="GitHub Stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhoomified&show_icons=true&hide_border=true&bg_color=07060D&title_color=B565D8&icon_color=B565D8&text_color=F1EAFB&ring_color=5FA8D3" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Bhoomified">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomified&layout=compact&hide_border=true&bg_color=07060D&title_color=B565D8&text_color=F1EAFB" alt="Top Languages"/>
@@ -152,7 +152,7 @@ Repeat.</strong>
 
 <p align="center">
   <a href="https://github.com/Bhoomified">
-    <img height="165" src="https://streak-stats.demolab.com?user=Bhoomified&hide_border=true&background=07060D&stroke=5FA8D3&ring=B565D8&fire=B565D8&currStreakLabel=B565D8&sideLabels=F1EAFB&currStreakNum=F1EAFB" alt="GitHub Streak"/>
+    <img height="165" src="https://streak-stats.demolab.com?user=Bhoomified&hide_border=true&background=07060D&stroke=5FA8D3&ring=B565D8&fire=B565D8&currStreakLabel=B565D8&sideLabels=F1EAFB&currStreakNum=F1EAFB" alt="Streak Stats"/>
   </a>
 </p>
 
