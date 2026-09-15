@@ -2,13 +2,13 @@
 
 <img src="./header-banner.png" width="100%" alt="Heyy!!! I am Bhoomi — AI-ML engineer | Full stack developer"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B565D8&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav;shipping+NeetiAi+%C2%B7+Memora+%C2%B7+Project+Dhruva;CS+(AI)+%40+KLE+Technological+University;next+stop%3A+a+funded+Master's+%2B+algo+trading" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B565D8&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav;AI%2FML+%2B+Full+Stack+Development;Building+intelligent+systems;Learning+by+building"/>
 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhoomified&label=Profile+Views&color=B565D8&style=round-square&labelColor=07060D"/>
-<img src="https://img.shields.io/github/followers/Bhoomified?label=Followers&style=round-square&color=B565D8&labelColor=07060D"/>
-<img src="https://img.shields.io/badge/Currently-Building%20NeetiAi-B565D8?style=round-square&labelColor=07060D"/>
+  <img src="https://img.shields.io/github/followers/Bhoomified?label=Followers&style=round-square&color=B565D8&labelColor=07060D"/>
+  <img src="https://img.shields.io/badge/Currently-Building%20NeetiAi-B565D8?style=round-square&labelColor=07060D"/>
 </div>
 
 </div>
@@ -24,15 +24,15 @@
 <h3>CS (AI) student who likes to build things that make me learn.</h3>
 
 <p>
-I’m a CS (AI) student at KLE Tech, constantly somewhere between 
-<strong>“I wonder if this is possible”</strong> and 
-<strong>“okay, now I have to make it work.”</strong>
+I'm a CS (AI) student at KLE Tech, constantly somewhere between 
+<strong>"I wonder if this is possible"</strong> and 
+<strong>"okay, now I have to make it work."</strong>
 </p>
 
 <p>
 My interests live around <strong>AI/ML, RAG, knowledge graphs, 
 intelligent systems, and navigation</strong>. I enjoy projects where 
-there’s more to solve than just writing the code — understanding the 
+there's more to solve than just writing the code — understanding the 
 problem, figuring out the architecture, experimenting with ideas, 
 and debugging things that absolutely did not want to be debugged.
 </p>
@@ -43,7 +43,7 @@ a terminal, a half-finished idea, and far too many tabs open at 1 AM.
 </p>
 
 <p>
-When I’m not building something, you’ll probably find me sketching, 
+When I'm not building something, you'll probably find me sketching, 
 exploring Vedic astrology, or going down another completely unexpected 
 rabbit hole.
 </p>
@@ -55,7 +55,7 @@ Repeat.</strong>
 
 </td>
 
-<td width="40%" align="right-" valign="center">
+<td width="40%" align="right" valign="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400"/>
 
@@ -68,7 +68,7 @@ Repeat.</strong>
 ## Ⅱ. Featured Builds
 
 > **NeetiAi** — AI-powered personal finance platform for Indian students
-> Full ML pipeline: XGBoost expense categorizer (F1 0.946), weekly spend forecasting, SciPy budget optimizer, and **Kuber** — a DistilBERT intent chatbot (F1 0.971) with an optional LLM rephrase layer. Trained models own every number; the LLM only ever touches phrasing, never generates a figure.
+> Full ML pipeline: XGBoost expense categorizer (F1 0.946), weekly spend forecasting, SciPy budget optimizer, and **Kuber** — a DistilBERT intent chatbot (F1 0.971) with an optional LLM rephrase layer
 > `Next.js` `FastAPI` `XGBoost` `DistilBERT` `Supabase` `SciPy`
 
 > **Memora** — AI-powered digital identity & knowledge graph engine · built for the Memoryverse Hackathon
@@ -76,7 +76,7 @@ Repeat.</strong>
 > `FastAPI` `ChromaDB` `NetworkX` `Groq` `D3.js` `Docker` → **[Live demo ↗](https://memora-production-2406.up.railway.app)**
 
 > **Project Dhruva** — phone-only, GPS-denied dead-reckoning navigation · Smart India Hackathon, ISRO problem statement SIH26168
-> Native Android app (recorder + live navigate screen) built from scratch, paired with a live web dashboard tracking drift and map-matching — built end-to-end with a teammate, from empty project to real field-tested rides.
+> Native Android app (recorder + live navigate screen) built from scratch, paired with a live web dashboard tracking drift and map-matching — built end-to-end with a teammate, from empty project to deployment
 > `Kotlin` `Android Studio` `Sensor Fusion` `OSMDroid`
 
 > **Breath Mirror** — a creative interactive web experience using mic input and hand-gesture tracking
@@ -107,11 +107,15 @@ Repeat.</strong>
 
 **AI / ML / LLM**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,xgboost&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=langchain,huggingface,groq&theme=dark"/>
+<img src="https://img.shields.io/badge/XGBoost-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
+<img src="https://img.shields.io/badge/LangChain-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
+<img src="https://img.shields.io/badge/HuggingFace-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
+<br/>
 <img src="https://img.shields.io/badge/RAG-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
 <img src="https://img.shields.io/badge/ChromaDB-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
+<img src="https://img.shields.io/badge/Groq-07060D?style=for-the-badge&labelColor=07060D&color=B565D8"/>
 </p>
 
 **Backend**
@@ -138,20 +142,28 @@ Repeat.</strong>
 ## Ⅳ. GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhoomified&show_icons=true&hide_border=true&bg_color=07060D&title_color=B565D8&icon_color=B565D8&text_color=F1EAFB&ring_color=5FA8D3"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomified&layout=compact&hide_border=true&bg_color=07060D&title_color=B565D8&text_color=F1EAFB"/>
+  <a href="https://github.com/Bhoomified">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhoomified&show_icons=true&hide_border=true&bg_color=07060D&title_color=B565D8&icon_color=B565D8&text_color=F1EAFB&ring_color=B565D8&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Bhoomified">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomified&layout=compact&hide_border=true&bg_color=07060D&title_color=B565D8&text_color=F1EAFB" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-<img height="165" src="https://streak-stats.demolab.com/?user=Bhoomified&hide_border=true&background=07060D&stroke=5FA8D3&ring=B565D8&fire=B565D8&currStreakLabel=B565D8&sideLabels=F1EAFB&currStreakNum=F1EAFB&sideNums=F1EAFB&dates=D9B8F5"/>
+  <a href="https://github.com/Bhoomified">
+    <img height="165" src="https://streak-stats.demolab.com?user=Bhoomified&hide_border=true&background=07060D&stroke=5FA8D3&ring=B565D8&fire=B565D8&currStreakLabel=B565D8&sideLabels=F1EAFB&currStreakNum=F1EAFB" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomified&bg_color=07060D&color=B565D8&line=5FA8D3&point=F1EAFB&hide_border=true&area=true" width="95%"/>
+  <a href="https://github.com/Bhoomified">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomified&bg_color=07060D&color=B565D8&line=5FA8D3&point=F1EAFB&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="200"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07060D,50:B565D8,100:5FA8D3&height=3&width=100%"/>
