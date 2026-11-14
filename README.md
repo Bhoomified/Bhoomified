@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header-banner.png" width="100%" alt="Heyy!!! I am Bhoomi — AI-ML engineer | Full stack developer"/>
+<img src="./header-banner.png" width="100%" alt="Heyy!!! I am Bhoomi — AI-ML engineer | Full stack developer | Data Science Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=B565D8&center=true&vCenter=true&width=620&lines=knowledge+graphs+%2B+RAG+%2B+dead-reckoning+nav"/>
 
@@ -31,7 +31,7 @@ I'm a CS (AI) student at KLE Tech, constantly somewhere between
 
 <p>
 My interests live around <strong>AI/ML, RAG, knowledge graphs, 
-intelligent systems, and navigation</strong>. I enjoy projects where 
+intelligent systems,data science and GenAI</strong>. I enjoy projects where 
 there's more to solve than just writing the code — understanding the 
 problem, figuring out the architecture, experimenting with ideas, 
 and debugging things that absolutely did not want to be debugged.
@@ -73,7 +73,7 @@ Repeat.</strong>
 
 > **Memora** — AI-powered digital identity & knowledge graph engine · built for the Memoryverse Hackathon
 > Causal graph (`LED_TO` → `BUILT_ON` → `APPLIED_IN`) linking growth, skills & experience · OCR ingestion · RAG chat with citations · migrated from local Ollama to Groq's hosted API for product deployment
-> `FastAPI` `ChromaDB` `NetworkX` `Groq` `D3.js` `Docker` → **[Live demo ↗](https://memora-production-2406.up.railway.app)**
+> `FastAPI` `ChromaDB` `NetworkX` `Groq` `D3.js` `Docker` → **[Live demo ↗] https://memora-x762.onrender.com**
 
 > **Project Dhruva** — phone-only, GPS-denied dead-reckoning navigation · Smart India Hackathon, ISRO problem statement SIH26168
 > Native Android app (recorder + live navigate screen) built from scratch, paired with a live web dashboard tracking drift and map-matching — built end-to-end with a teammate, from empty project to deployed on multiple devices
@@ -102,7 +102,7 @@ Repeat.</strong>
 
 **Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,rust,js,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,rust,js,c,c++&theme=dark"/>
 </p>
 
 **AI / ML / LLM**
